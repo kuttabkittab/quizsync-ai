@@ -1,0 +1,6 @@
+{
+  "name": "MindClash - AI Multiplayer Quiz Arena",
+  "description": "Create instant multiplayer quiz rooms, generate gamified questions with any AI (ChatGPT, Claude, Gemini, DeepSeek), and battle live with real-time scoring and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
